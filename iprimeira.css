@@ -16,7 +16,7 @@
 }
 
 body{
-    background-image: url("imagens/imagens02/counterstrike.webp");
+    background-color:var(--cor1);
     font-family:Arial, Helvetica, sans-serif;
 
 }
