@@ -7,7 +7,7 @@
     --cor4:#415aa0 ;
     --cor5:#131a5e;
 
-    --font-padrao:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    --font-padrao:Arial, Helvetica, sans-serif;
     --font-destaque:monospace;
 }
 *{
@@ -17,7 +17,7 @@
 
 body{
     background-color: var(--cor1);
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
 
 }
 header > h1,h3{
